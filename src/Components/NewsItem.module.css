@@ -1,0 +1,25 @@
+.item{
+    padding: 13px;
+    box-shadow: 5px 5px 8px #00000020,
+                -5px -5px 8px #ffffff;
+}
+
+.item:hover{
+    box-shadow: inset 10px 10px 12px rgba(16,16,16,0.1),
+                inset -8px -8px 10px #ffffff;
+}
+
+.button{
+    text-decoration: none;
+    margin-top: 14px;
+    font: 1em sans-serif;
+    border: 1px solid #3faa78;
+    border-radius: 12px;
+    padding: 7px 12px;
+    background-color: #319e6b;
+    color: white;
+}
+
+.spanner{
+    left: 15%;
+}

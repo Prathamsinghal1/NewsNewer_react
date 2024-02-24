@@ -1,0 +1,57 @@
+.colorWhite{
+    font-size: 18px;
+    margin: 1px;
+    margin-left: 6px;
+    margin-right: 20px;
+    color: white;
+    border-radius: 9px;
+}
+
+.colorWhite:hover{
+    color: rgb(171, 200, 242);
+}
+
+.icon{
+    font-size: 22px;
+    margin: 2px;
+    margin-left: 10px;
+    margin-right: 20px;
+    color: white;
+}
+
+.dark{
+    z-index: 1;
+    background-color: rgb(105, 105, 105);
+    opacity: 0.9;
+}
+
+.dropdown{
+    border: 3px solid  rgb(105, 105, 105);
+    background: rgba(0,0,0, 0.8);
+    opacity: 0.9;
+    border-radius: 12px;
+}
+
+.element{
+    background-color: rgb(105, 105, 105); 
+    color: white;
+    border: 1px solid #ffff;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    font-family: "Quicksand", sans-serif;
+    cursor: pointer;
+}
+.element:hover{
+    background-color: rgb(137, 136, 136); 
+    color: white;
+}
+
+.divider{
+    padding: 0;
+    margin: 0;
+}
+
+.righter{
+    position: absolute;
+    right:3%;
+}

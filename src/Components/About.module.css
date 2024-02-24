@@ -1,0 +1,26 @@
+.set{
+    height:90vh;
+    margin-top: 5px;
+    opacity: 0.5;
+}
+
+.display{
+    color:rgb(253, 105, 6);
+    margin-bottom: 3vh;
+}
+
+.middle{
+    color:rgb(32, 29, 32);
+    margin-bottom: 3vh;
+}
+
+.last{
+    color: rgb(112, 122, 253);
+    margin-bottom: 10vh;
+}
+
+.diff{
+    color: rgb(253, 105, 6);
+    
+    margin-bottom: 10vh;
+}
