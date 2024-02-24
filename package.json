@@ -2,7 +2,7 @@
   "homepage": "https://Prathamsinghal1.github.io/NewsNewer_react",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

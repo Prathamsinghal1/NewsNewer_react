@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <div className="">
-        <Router>
+        <Router basename='/NewsNewer_react'>
           <Navbar key={"hello"} handleOnClick={handleOnClick}/>
           <Routes>
             <Route exact path="/" element={<News key="1" category="" country="in"/>}/>
