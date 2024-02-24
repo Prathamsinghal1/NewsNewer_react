@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import style from "./Navbar.module.css";
 import { IoNewspaperOutline } from "react-icons/io5";
-import { Link } from "react-router-dom";
 
 export class Navbar extends Component {
   render() {
